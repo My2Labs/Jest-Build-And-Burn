@@ -1,0 +1,23 @@
+{
+    "name": "jest-build-and-burn",
+    "version": "1.0.0",
+    "description": "Jest Build-and-Burn",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/My2Labs/Jest-Build-And-Burn.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/My2Labs/Jest-Build-And-Burn/issues"
+    },
+    "homepage": "https://github.com/My2Labs/Jest-Build-And-Burn#readme",
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
+}
